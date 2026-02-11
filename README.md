@@ -72,3 +72,7 @@ La evasión de clientes no ocurre de manera aleatoria.
 El tipo de contrato y la antigüedad del cliente son los principales factores asociados al churn.
 
 Este análisis puede servir como base para el desarrollo de modelos predictivos y estrategias de retención.
+
+---
+## 💼 Autor
+Maria Barbaran - Proyecto educativo de análisis de datos con Python realizado como parte del programa Data Science ONE (G9) de Alura LATAM.

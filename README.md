@@ -65,6 +65,18 @@ El objetivo es detectar patrones que permitan comprender qué variables influyen
 
 ---
 
+## 💡 Recomendaciones Estratégicas
+
+A partir del análisis realizado, se sugieren las siguientes acciones:
+
+- Incentivar contratos anuales o bienales mediante descuentos o beneficios adicionales.
+- Implementar estrategias de retención durante los primeros meses del cliente, período donde se observa mayor tasa de churn.
+- Analizar y ajustar planes con valores mensuales elevados.
+- Diseñar campañas personalizadas para clientes en riesgo según su antigüedad y tipo de contrato.
+- Utilizar las variables identificadas para desarrollar un modelo predictivo de churn.
+
+---
+
 ## 🎯 Conclusión
 
 La evasión de clientes no ocurre de manera aleatoria. 
@@ -73,5 +85,6 @@ El tipo de contrato y la antigüedad del cliente son los principales factores as
 Este análisis puede servir como base para el desarrollo de modelos predictivos y estrategias de retención.
 
 ---
+
 ## 💼 Autor
 Maria Barbaran - Proyecto educativo de análisis de datos con Python realizado como parte del programa Data Science ONE (G9) de Alura LATAM.

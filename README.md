@@ -2,7 +2,7 @@
 
 ## 🚀 Abrir Proyecto
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1nXFEUKmqbN-K1DM5NFMjcCNMuG8J5bPV#scrollTo=n2Pf4Uc-KaRP) 
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)](https://colab.research.google.com/drive/1nXFEUKmqbN-K1DM5NFMjcCNMuG8J5bPV#scrollTo=n2Pf4Uc-KaRP) 
 [![Trello Board](https://img.shields.io/badge/View%20Project-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)](https://trello.com/b/RZTGyMKk/challenge-n2-alura-oracle-caso-telecom-x)
 
 ---

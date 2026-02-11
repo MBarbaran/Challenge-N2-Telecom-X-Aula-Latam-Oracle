@@ -41,19 +41,19 @@ El objetivo es detectar patrones que permitan comprender qué variables influyen
 
 ### 📌 Tasa de Churn por Tipo de Contrato
 
-![Churn por Contrato](images/churn_contrato.jpg)
+![Churn por Contrato](churn_contrato.jpg)
 
 ---
 
 ### 📌 Tasa de Churn por Rango de Antigüedad
 
-![Churn por Antigüedad](images/churn_antiguedad.jpg)
+![Churn por Antigüedad](churn_antiguedad.jpg)
 
 ---
 
 ### 📌 Tiempo de Contrato vs Churn
 
-![Boxplot Tiempo](images/boxplot_tiempo.jpg)
+![Boxplot Tiempo](boxplot_tiempo.jpg)
 
 ---
 
